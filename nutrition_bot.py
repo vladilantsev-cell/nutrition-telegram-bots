@@ -414,3 +414,4 @@ if __name__ == "__main__":
     print("🚀 Запущен: Умный Нутрициолог PRO")
     print("🔑 Убедитесь, что OPENROUTER_API_KEY задан")
     bot.infinity_polling()
+
